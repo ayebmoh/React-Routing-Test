@@ -1,0 +1,35 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "title": "Mohamed React Developer",
+      "salary": 50000,
+      "location": "ISIM, Monastir"
+    },
+    {
+      "id": 2,
+      "title": "Haifa Angular Developer",
+      "salary": 50000,
+      "location": "GTI"
+    },
+    {
+      "id": 3,
+      "title": "Mariem Java Developer",
+      "salary": 50000,
+      "location": "Vermeg"
+    },
+    {
+      "id": 4,
+      "title": "Vue Developer",
+      "salary": 40000,
+      "location": "Liverpool, UK"
+    },
+    {
+      "id": 5,
+      "title": "Adam Full Stack Developer",
+      "salary": 50000,
+      "location": "ISIM, Monastir"
+    }
+  ]
+}
+    
